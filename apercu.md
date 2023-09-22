@@ -1,6 +1,6 @@
 # Aperçu
 
--------
+***
 
 ## Portail des Revendeurs unTill
 
@@ -10,8 +10,8 @@ Le Portail des Revendeurs permet aux utilisateurs d'intégrer de nouveaux client
 
 Il existe deux types d'abonnements dans unTill Air :
 
-- 'Abonnement Direct'
-- 'Abonnement Hébergé'
+* 'Abonnement Direct'
+* 'Abonnement Hébergé'
 
 Tandis que les 'Abonnements directs' supposent l'interaction des utilisateurs de paiements uniquement avec les représentants d'unTill, les 'Abonnements hébergés' nécessitent la médiation d'un Revendeur. Un Portail spécialement conçu est fourni pour ce type d'abonnement.
 
@@ -31,25 +31,25 @@ Les utilisateurs du Portail ont plusieurs rôles :
   * Est invité au Portail par l'Admin Revendeur. Le Revendeur de Paiements a une fonctionnalité différente sur le Portail par rapport au Revendeur Air. Ses responsabilités incluent : créer des Emplacementx de paiement dans une section dédiée et fournir un accès au Portail de paiements aux utilisateurs qui utilisent peut-être unTill Air, unTill Prime, ou les deux. De plus, le Revendeur de Paiements accepte et poursuit les demandes soumises par les Utilisateurs de Paiements. Par exemple, le Revendeur de Paiements travaille avec une demande de Terminal.
 
 {% hint style="info" %}
-Pour plus de détails sur les demandes de Terminal, consultez cette page.
+Pour plus de détails sur les demandes de Terminal, [consultez cette page](revendeurs-de-paiements/demande-des-terminaux.md).
 {% endhint %}
 
-| Rôles                          | Responsabilités |
-| ------------------------------ | --------------- |
-| Admin Revendeur (Représentant d'unTill) | Inviter de nouveaux Revendeurs et en supprimer des existants, configurer des espaces de travail pour les Revendeurs, attribuer les rôles aux Revendeurs. |
-| Revendeur Air                  | Attirer de nouveaux clients vers unTill Air, surveiller l'état d'abonnement des clients. |
-| Revendeur de Paiements         | Créer des Emplacements de Paiements, accorder aux Utilisateurs de Paiements l'accès au Portail de Paiements, et transmettre leurs demandes à unTill (Par exemple : demande de Terminal). |
+| Rôles                                   | Responsabilités                                                                                                                                                                          |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Admin Revendeur (Représentant d'unTill) | Inviter de nouveaux Revendeurs et en supprimer des existants, configurer des espaces de travail pour les Revendeurs, attribuer les rôles aux Revendeurs.                                 |
+| Revendeur Air                           | Attirer de nouveaux clients vers unTill Air, surveiller l'état d'abonnement des clients.                                                                                                 |
+| Revendeur de Paiements                  | Créer des Emplacements de Paiements, accorder aux Utilisateurs de Paiements l'accès au Portail de Paiements, et transmettre leurs demandes à unTill (Par exemple : demande de Terminal). |
 
 Toutes les notifications, questions et clarifications sont transmises aux représentants d'unTill par le biais des Revendeurs. Pour cet objectif, les Revendeurs indiquent leurs contacts dans le 'Profil d'Abonnement'.
 
-## Paiements
+## Versements
 
-Les Revendeurs participent au processus d'invitation et d'accès au Portail de paiements des clients potentiels vers unTill Air et unTill Prime. En raison de ce rôle, les Revendeurs participent au processus de partage des revenus, où chaque partie reçoit des fonds en fonction de l'activité financière d'un Emplacement. Après cette répartition des revenus sur la plateforme Adyen, les fonds sont crédités sur les 'Soldes Actuels'.
+Les Revendeurs participent au processus d'invitation et d'accès au Portail de paiements des clients potentiels vers unTill Air et unTill Prime. En raison de ce rôle, les Revendeurs participent au processus de partage des revenus, où chaque partie reçoit des fonds en fonction de l'activité financière d'un Emplacement. Après cette division des revenus sur la plateforme Adyen, les fonds sont crédités sur les 'Soldes Actuels'.
 
-Les paiements sur les comptes bancaires personnels des Revendeurs ont Emplacement sur une base hebdomadaire.
+Les versements sur les comptes bancaires personnels des Revendeurs ont Emplacement sur une base hebdomadaire.
 
 {% hint style="info" %}
-Pour plus d'informations sur le processus de paiement, consultez cette page.
+Pour plus d'informations sur le processus de paiement, [consultez cette page](revendeurs-de-paiements/emplacements-de-paiements.md).
 {% endhint %}
 
 ## Frais de Traitement et Frais d'Acquisition
@@ -64,7 +64,7 @@ Les Revendeurs participent à la division de deux types de frais : les 'Frais de
 Les Revendeurs configurent ces frais conformément aux accords conclus avec les Utilisateurs de Paiements. Ce paramétrage a Emplacement dans la section 'Emplacement de Paiements' du Portail. La part du Revendeur est calculée en déduisant la part fixe d'unTill des 'Frais de Traitement' et 'Frais d'Acquisition' établis.
 
 {% hint style="info" %}
-Pour plus de détails sur ces frais et leur répartition, consultez cette page.
+Pour plus de détails sur ces frais et leur répartition, [consultez cette page](revendeurs-de-paiements/emplacements-de-paiements.md).
 {% endhint %}
 
 ## Clients du Revendeur
@@ -86,5 +86,3 @@ Les Revendeurs de Paiements travaillent avec les Propriétaires de l'Emplacement
 Pour les opérations financières, unTill Payments s'associe à la plateforme Adyen.
 
 Lorsqu'un client dans un restaurant paie l'addition avec une carte, le montant de la transaction est dirigé vers la plateforme Adyen, où il est réparti. À ce stade, les frais correspondants sont distribués aux 'Soldes Actuels' des parties impliquées (Revendeur, unTill, Utilisateur de Paiements).
-
-
