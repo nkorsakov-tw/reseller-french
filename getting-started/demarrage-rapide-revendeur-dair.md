@@ -13,7 +13,7 @@ Pour accéder au portail de revendeur unTill, vous devez être un Air Revendeur 
 7. Copiez le lien qui a été fourni.
 8. Partagez ce lien avec les clients potentieles. 
 
-{% hint style="info" %}
+{% hint style="success" %}
 Felicitacions ! Maintenant vous êtes prêt à entierement travailler sur le Portail de paiement.
 {% endhint %}
 
