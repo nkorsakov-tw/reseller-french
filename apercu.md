@@ -85,6 +85,6 @@ Les Revendeurs de Paiements travaillent avec les Propriétaires de l'Emplacement
 
 Pour les opérations financières, unTill Payments s'associe à la plateforme Adyen.
 
-Lorsqu'un client dans un restaurant paie l'addition avec
+Lorsqu'un client dans un restaurant paie l'addition avec une carte, le montant de la transaction est dirigé vers la plateforme Adyen, où il est réparti. À ce stade, les frais correspondants sont distribués aux 'Soldes Actuels' des parties impliquées (Revendeur, unTill, Utilisateur de Paiements).
 
 
