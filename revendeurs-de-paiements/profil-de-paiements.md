@@ -2,7 +2,7 @@
 
 ----------
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:purple;">Revendeurs de Paiements</mark></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:red;">Revendeurs de Paiements</mark></td><td></td></tr></tbody></table>
 
 La section 'Profil des Paiements' contient des informations essentielles pour votre rôle en tant que Revendeur de paiements. Il est important de remplir les paramètres du profil avec précision, sinon votre statut sera invalide, ce qui vous empêche de recevoir des paiements et d'effectuer d'autres actions financières.
 

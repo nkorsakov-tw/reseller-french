@@ -2,6 +2,8 @@
 
 -------
 
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Who can use this feature?</strong></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:red;">Revendeurs de Paiements</mark></td><td></td></tr></tbody></table>
+
 La section 'Compte' dans le Portail des Revendeurs offre un aperçu détaillé de vos interactions financières. Ici, vous pouvez suivre les dernières informations concernant votre solde et les montants attribués à votre compte de Revendeur.
 
 Grâce à cette section, vous êtes toujours à jour en ce qui concerne votre situation financière et vos transactions.
